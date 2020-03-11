@@ -1,7 +1,9 @@
-# Express
-## 安装
+Express
 
+## 安装
+```
 composer require caorulai/ali_express_api
+```
 
 ## 使用说明
 
