@@ -1,0 +1,19 @@
+{
+    "name": "buddha/ali_quanqiu_express",
+    "description": "全国快递物流查询-快递接口API旗舰版",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "buddha",
+            "email": "3539949703@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Express\\": "src/Express"
+        }
+    }
+}
